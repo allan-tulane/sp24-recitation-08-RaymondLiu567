@@ -1,4 +1,4 @@
-from main_sol import *
+from main_sol import shortest_shortest_path, bfs_path, get_path, get_sample_graph
 
 def test_shortest_shortest_path():
 
